@@ -1,1 +1,2 @@
-Edit this.
+#!/bin/bash
+su - betty
